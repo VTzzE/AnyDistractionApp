@@ -3,8 +3,8 @@
 
 🇧🇷 AnyDistraction é um aplicativo de lista de tarefas que ajuda o usuário a manter o foco detectando distrações e lembrando-o de suas tarefas.
 ## 🇺🇸 English
-### Features
-- Task management
+### Core Features
+- Create, edit and delete tasks
 - Distraction detection (by active windows monitoring)
 - Notifications when the user loses focus
 - Runs in the background
@@ -13,8 +13,8 @@
 ### Status
 In development
 ## 🇧🇷 Português
-### Funcionalidades
-- Gerenciamento de tarefas
+### Funcionalidades Principais
+- Criar, editar e excluir tarefas
 - Detecção de distrações (por meio de monitoramento de janelas ativas)
 - Notificações quando o usuário sair do foco
 - Execução em segundo plano
