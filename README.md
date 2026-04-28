@@ -10,6 +10,7 @@
 - Runs in the background
 ### Tech Stack
 - C++
+- gtkmm
 ### Status
 In development
 ## 🇧🇷 Português
@@ -20,5 +21,6 @@ In development
 - Execução em segundo plano
 ### Tecnologias
 - C++
+- gtkmm
 ### Status
 Em andamento...
