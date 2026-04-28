@@ -12,6 +12,7 @@
 - C++
 - Qt
 - SQLite
+- Kwin/WinAPI
 ### Status
 In development
 ## 🇧🇷 Português
@@ -24,5 +25,6 @@ In development
 - C++
 - Qt
 - SQLite
+- Kwin/WinAPI
 ### Status
 Em andamento...
