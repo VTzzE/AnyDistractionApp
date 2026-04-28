@@ -9,7 +9,7 @@
 - Notifications when the user loses focus
 - Runs in the background
 ### Tech Stack
-- C#
+- C++
 ### Status
 In development
 ## 🇧🇷 Português
@@ -19,6 +19,6 @@ In development
 - Notificações quando o usuário sair do foco
 - Execução em segundo plano
 ### Tecnologias
-- C#
+- C++
 ### Status
 Em andamento...
