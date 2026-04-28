@@ -10,7 +10,7 @@
 - Runs in the background
 ### Tech Stack
 - C++
-- gtkmm
+- Qt
 - SQLite
 ### Status
 In development
@@ -22,7 +22,7 @@ In development
 - Execução em segundo plano
 ### Tecnologias
 - C++
-- gtkmm
+- Qt
 - SQLite
 ### Status
 Em andamento...
