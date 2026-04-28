@@ -11,6 +11,7 @@
 ### Tech Stack
 - C++
 - gtkmm
+- SQLite
 ### Status
 In development
 ## 🇧🇷 Português
@@ -22,5 +23,6 @@ In development
 ### Tecnologias
 - C++
 - gtkmm
+- SQLite
 ### Status
 Em andamento...
